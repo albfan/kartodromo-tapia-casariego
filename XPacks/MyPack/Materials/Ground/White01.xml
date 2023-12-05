@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<material>
+  <ShaderType>Diffuse</ShaderType>
+  <DefaultApplicationType>Global</DefaultApplicationType>
+  <PerMeterCoverage>8</PerMeterCoverage>
+  <GameSurface>road</GameSurface>
+  <Purpose>1</Purpose>
+  <rF_SpecularPower>3</rF_SpecularPower>
+  <rF_SpecularColor R="220" G="220" B="220" />
+  <rF_rFactorMaterialName />
+  <rF_TransparencyType>None</rF_TransparencyType>
+  <rF_TransparencyChromaColor R="0" G="255" B="255" />
+  <AC_Ambient>0.2</AC_Ambient>
+  <AC_Diffuse>0.2</AC_Diffuse>
+  <AC_Specular>0.1</AC_Specular>
+  <AC_SpecularPower>6</AC_SpecularPower>
+  <AC_AlphaRef>1</AC_AlphaRef>
+  <AC_DetailUVMultiplier>4</AC_DetailUVMultiplier>
+  <AC_DetailNormalBlend>1</AC_DetailNormalBlend>
+  <AC_MultR>0.173</AC_MultR>
+  <AC_MultG>0.133</AC_MultG>
+  <AC_MultB>0.1472</AC_MultB>
+  <AC_MultA>0.1913</AC_MultA>
+  <AC_MagicMult>1</AC_MagicMult>
+  <AC_TransparencyType>Opaque</AC_TransparencyType>
+  <AC_ksTree>False</AC_ksTree>
+  <DiffMap>
+    <Path>White01.dds</Path>
+    <texture_coordinate>
+      <Angle>0</Angle>
+      <scale x="1" y="1" />
+      <offset x="0" y="0" />
+    </texture_coordinate>
+    <MIPBias>0</MIPBias>
+  </DiffMap>
+</material>
