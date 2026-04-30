@@ -19,7 +19,7 @@
   <AC_DetailUVMultiplier>4</AC_DetailUVMultiplier>
   <AC_DetailNormalBlend>1</AC_DetailNormalBlend>
   <AC_MultR>0.173</AC_MultR>
-  <AC_MultG>0.125</AC_MultG>
+  <AC_MultG>0.1923077</AC_MultG>
   <AC_MultB>0.2</AC_MultB>
   <AC_MultA>0.2</AC_MultA>
   <AC_MagicMult>1</AC_MagicMult>
@@ -53,7 +53,7 @@
     <MIPBias>0</MIPBias>
   </Terrain1>
   <Terrain2 FromOtherXPack="True">
-    <Path>City Streets\Textures\Ground\Grass Diff.dds</Path>
+    <Path>Raceday\Textures\Ground\Grass01.dds</Path>
     <texture_coordinate>
       <Angle>0</Angle>
       <scale x="1" y="1" />
@@ -62,7 +62,7 @@
     <MIPBias>0</MIPBias>
   </Terrain2>
   <Terrain3 FromOtherXPack="True">
-    <Path>City Streets\Textures\Ground\Conc 1 Diff.dds</Path>
+    <Path>Raceday\Textures\Ground\Grass02.dds</Path>
     <texture_coordinate>
       <Angle>0</Angle>
       <scale x="1" y="1" />
@@ -71,7 +71,7 @@
     <MIPBias>0</MIPBias>
   </Terrain3>
   <Terrain4 FromOtherXPack="True">
-    <Path>City Streets\Textures\Ground\Conc 2 Diff.dds</Path>
+    <Path>Raceday\Textures\Ground\Grass03.dds</Path>
     <texture_coordinate>
       <Angle>0</Angle>
       <scale x="1" y="1" />
